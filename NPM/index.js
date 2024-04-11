@@ -8,9 +8,10 @@ npm ( Node Package Manager )
 
 
 */
-
+// CJS module
 // var generateName = require('sillyname');
 
+//ESM ECMAScript module
 import generateName from "sillyname";
 var sillyName = generateName();
 
