@@ -1,3 +1,15 @@
 ** Creating a file **
 (1) touch file.txt
-(2) open file.txt
+(2) open file.txt and code fiel.txt only works in mac OS
+(3) nano file.txt > ctrl + x > press y > hit enter to save the file, also use vi editor
+(4) rm file.txt ( it will delete the file ) 
+(5) rm *  ( it will delete all file )
+(6) pwd ( print working directory ) 
+(7) rm -r folder/ ( will delete every thing in the folder)
+(8) history ( all commands history )
+
+** For more commands check out this link**
+https://www.learnenough.com/command-line-tutorial
+
+
+
