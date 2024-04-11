@@ -1,0 +1,9 @@
+Steps to follow to start working with Linux commands or creating the Linux environment :
+
+Step_1: Install the Git bash and git for windows and macs. 
+    - For macs user, as it's already comes with bash preinstall, so no need to install it. 
+    - For windows users, https://gitforwindows.org/ , click on this link > click on download, while downloading do not forget to select the components 'Git Bash Here' > then just go with the default settings throughout the installation part.
+    - Now we have successfully install the git anf Git Bash in our systems, so follow the next step.
+
+Step_2: 
+    - In terminal select Git Bash, by pressing ctrl + shift + backticks (`) > then on the right corner side there is a plus sign, click on it and select it.
