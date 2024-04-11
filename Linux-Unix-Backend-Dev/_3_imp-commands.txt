@@ -1,0 +1,14 @@
+** Important Commands **
+(1) ls ( list ) - list all the items 
+(2) ls -l ( more detailed info)
+(3) cd ( change directory )
+(4) cd ../ or cd .. ( step back one directory )
+(5) cd ~ ( root directory )
+(6) pwd ( current path )
+(7) touch index.txt ( create any file )
+(8) nano index.txt ( it will open index.txt into nano editor )
+(9) vi index.txt ( same opens in vi editor )
+(10) mkdir Music ( create a dir)
+(11) rmdir Music ( delete a dir)
+(12) cat index.txt ( read the file )
+
