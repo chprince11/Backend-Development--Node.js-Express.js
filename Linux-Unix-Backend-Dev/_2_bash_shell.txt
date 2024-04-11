@@ -1,0 +1,21 @@
+** If the OS is a Pistachio: ** 
+- Shell the outer layer of the kernel
+- Kernel is the actual nut inside
+
+- In computing the Kernel refers to the actual program that interfaces with the hardware. So it's the core of your OS.
+
+- The shell in computing refers to the user interface for you as a human to be able to interact with the kernal and in turn with the hardware of your computer. 
+
+-GUI ( Graphical User Interface ) eg: Windows Explorer, Mac Finder, 
+
+-CLI ( Command Line Interface )  
+
+- We are going to start with the BASH shell stands for ( Bourne Again Shell ).
+- Bash shell is a CLI or a Commmand line interpreter for the Unix system.
+- And we can find Unix-based system or Unix-like systems all over the place.
+- ex: Linux is Unix-like system and Mac OS runs on a Unix-like OS. 
+
+Ques: Why to use CLI ?
+- It has greater control and speed. Full control on the hidden files too.
+- ex: mkdir Music this command basically create a folder name Music. It's too fast.  
+- ls -a ( will list all the files )
