@@ -1,0 +1,44 @@
+** Version control using Git **
+- Version control: 
+- git: 
+  
+- The folder where we works is known as "Working directory"
+
+* git init ( initialize the git into the working directory )
+
+- In order to start tracking the changes of the file, for example test.txt then I need to add this file to what called a "Staging Area"
+
+* git status ( to see what is going on )
+
+- untracked files always be in red color
+- To add into the staging area we need to use the command
+
+* git add fileName.txt
+- Now, it is added into the staging area and in green color
+- Now time to commit the change
+
+* git commit -m "Initial commit"
+- -m ( for the message, helps us to understand what the change is about )
+
+- Also check the commit made
+* git log ( show the date & time of the commit, who made the commit, and a hash value for the commit made )
+
+* git add . ( add everthing which is there in the working directory )
+
+-
+* git diff file.txt 
+- ( show the changes made from what is was before ) 
+
+* git checkout file.txt 
+- ( it will revert the changes made and put the last verison of that file )
+
+** RECAPE **
+
+* git init ( to initialize the git )
+* git status ( to see what is going on )
+* git add fileName.txt ( Staged area )
+* git commit -m "Initial commit"
+* git add . ( add everthing )
+* git log ( information commit made )
+* git diff file.txt ( show change difference)
+* git checkout file.txt ( to last version commited)
