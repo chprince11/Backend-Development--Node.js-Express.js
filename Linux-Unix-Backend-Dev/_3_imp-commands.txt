@@ -6,9 +6,14 @@
 (5) cd ~ ( root directory )
 (6) pwd ( current path )
 (7) touch index.txt ( create any file )
-(8) nano index.txt ( it will open index.txt into nano editor )
-(9) vi index.txt ( same opens in vi editor )
+(8) nano index.txt ( it will open index.txt into nano editor ), ctrl+X > press 'y' > then hit 'enter' to save it 
+(9) vi index.txt ( same opens in vi editor ),
+press i ( to insert into the file ) >
+esc ( to come out from it ) >
+: ( to prompt to save or not ) > 
+x ( to save it ) 
 (10) mkdir Music ( create a dir)
 (11) rmdir Music ( delete a dir)
 (12) cat index.txt ( read the file )
+(13) ls -a ( display all file include the hidden too )
 
