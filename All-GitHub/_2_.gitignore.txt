@@ -1,0 +1,4 @@
+** How to use .gitignore, how to set rules for hide sensitive information **
+
+
+

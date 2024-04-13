@@ -42,3 +42,10 @@
 * git log ( information commit made )
 * git diff file.txt ( show change difference)
 * git checkout file.txt ( to last version commited)
+
+** Remote git commands **
+
+* git remote add origin <url>
+* git push -u <remote name> <branch name>
+* git push -u origin main
+
