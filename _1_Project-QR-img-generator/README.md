@@ -2,8 +2,9 @@
 
 - Open Terminal window and execute these commands as follows:
 
-  - clone the repo: 
-https://github.com/chprince11/Backend-Development--Node.js-Express.js.git
+  - Clone the repo:
+
+  - git clone https://github.com/chprince11/Backend-Development--Node.js-Express.js.git
 
   - cd _1_Project-QR-img-generator
 
