@@ -1,0 +1,13 @@
+** Branching and Merging **
+
+---- Branching ----
+
+- To create a new branch:     git branch branchName
+- To check no. of branches:   git branch
+- Switch to branch:           git checkout branchName
+
+---- Merging ----
+
+- Merging the branch into the main: 
+git merge branchName
+- It will open in vim editor, so to save and exit simply type ' :q! '
