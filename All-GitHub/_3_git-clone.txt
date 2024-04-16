@@ -1,0 +1,15 @@
+** Git clone **
+
+- First, you need to locate the repository you want to clone.
+
+-This is usually done by obtaining the URL of the repository from a hosting service like GitHub, GitLab, Bitbucket, etc.
+
+Run the Command: Once you have the URL, you run the git clone command followed by the URL. For example:
+
+- git clone <repository_URL>
+
+- Git will create a new directory on your local machine with the same name as the repository and it will copy all the files and directories into this new directory.
+
+-Once the cloning process is complete, you'll have a fully functional local copy of the repository on your machine. 
+
+-You can now work on the files, make changes, commit those changes, and push them back to the remote repository if you have the necessary permissions.
