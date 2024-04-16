@@ -1,0 +1,17 @@
+**** Forking & PR ( pull requests ) ****
+- Best pratice to work in a collaboration environment and to contribute to open-source projects
+
+---- What is Forking & Cloning ?? ----
+
+- Creates a copy of a repository in your GitHub account is known as 'Forking'.
+- Enables you to freely experiment with changes without affecting the original repository.
+Cloning:
+
+- Creates a local copy of a repository on your own machine is called 'Cloning'.
+- Allows you to work on the code locally and push changes back to the remote repository.
+Pull Request (PR):
+
+---- What is PR's ?? ----
+- It stands for Pull Requests, can show your piece of works, skills, newly added features in order to be merged into the main repository, where a person performed the forking.
+- A request to the original repository's maintainers to review and potentially merge your changes.
+- The discussion, feedback, and collaboration on code changes before merging.
