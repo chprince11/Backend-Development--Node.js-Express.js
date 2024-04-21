@@ -32,6 +32,8 @@
 * git checkout file.txt 
 - ( it will revert the changes made and put the last verison of that file )
 
+* git reset HEAD fileName.txt ( convert back into untracked or unstaged a particular file )
+
 ** RECAPE **
 
 * git init ( to initialize the git )
