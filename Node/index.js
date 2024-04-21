@@ -1,3 +1,4 @@
+// Node REPL ( Read Eval Print Loop ) > - Is a computer enivronment where user inputs are read and evaluated, and then the results are returned to the user.
 // console.log("Hello from Node!");
 // Native node Modules: Starting toolset
 
