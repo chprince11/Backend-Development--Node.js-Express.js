@@ -14,7 +14,7 @@ import qr from 'qr-image';
 import fs from 'fs';
 
 inquirer
-  .prompt([{
+.prompt([{
     // Pass your questions in here
     message: "Type in your URL: ", 
     name : "URL" 
@@ -38,3 +38,4 @@ inquirer
     }
   });
 
+  
