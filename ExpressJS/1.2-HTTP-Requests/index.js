@@ -1,11 +1,13 @@
 /* 
-HTTP Requets:
+HTTP Requets: https is a langugae that allows the computer to talk to each other across to internet.
 
 GET - GET is a request a resource from the server it could be html file, text file, JS file, etc.
 
 POST - Sending a resource to the server
+
 PUT & PATCH - Both are update method. PUT when what to replace it completely.
 PATCH - Patch up a resources
+
 DELETE - delete resources ( request from client-side to server-side )
 
 */
