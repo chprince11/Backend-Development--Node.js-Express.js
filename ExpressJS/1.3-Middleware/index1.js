@@ -13,11 +13,12 @@ app.get("/", (req, res) => {
   res.sendFile(__dirname + "/public/index.html");
 });
 
+// body-parser comes under the pre - process category
 app.use(bodyParser.urlencoded({extended:true}));
 
 app.post("/submit", (req,res) =>{
   console.log(req.body);
-})
+});
 
 app.listen(port, () => {
   console.log(`Listening on port ${port}`);
