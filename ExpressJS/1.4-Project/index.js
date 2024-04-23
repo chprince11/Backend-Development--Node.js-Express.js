@@ -1,7 +1,7 @@
 import express from 'express';
 import {dirname} from 'path';
 import {fileURLToPath} from 'url';
-import bodyParser from 'body-parser';
+// import bodyParser from 'body-parser';
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
 const app = express();
@@ -9,7 +9,8 @@ const port = 3000;
 
 var userIsAuthorised = false;
 
-app.use(bodyParser.urlencoded({extended:true}));
+// Can also use express instead of importing bodyParser, it will work the same
+app.use(express.urlencoded({extended:true}));
 
 function passwordCheck(req, res, next) {
     const password = req.body['password'];
