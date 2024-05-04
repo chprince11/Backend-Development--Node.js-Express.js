@@ -19,7 +19,7 @@ npm ( Node Package Manager )
 
 // ** ESM ECMAScript module **
 
-// To use the ESM we have to go to the package.json and after the main comma have insert this key value pair ' "type": module, ', now you are good to use ESM 
+// To use the ESM we have to go to the package.json and after the main comma have insert this key value pair ' "type": module, ', now you are good to use ESM
 
 import generateName from "sillyname";
 var sillyName = generateName();
@@ -27,7 +27,3 @@ var sillyName = generateName();
 console.log(`My name is ${sillyName}.`);
 
 // ECMAScript Modules ( ESM )
-
-
-
-
